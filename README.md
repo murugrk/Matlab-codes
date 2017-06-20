@@ -1,7 +1,7 @@
 # Matlab-codes
 
 
-MARKOV-CHAIN IMPLEMENTATION:
+
 we study some numerical aspects of the classical two-player game
 rock-paper-scissors, using MATLAB. In particular, we focus on simple strategies that, in
 the long run, could benefit both the computer and the human player.
